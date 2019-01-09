@@ -1,0 +1,12 @@
+name,type ,top,bottom,R,G,B
+Triassic,Period,2.1,0,129,43,146
+Jurassic,Period,3,2.1,52,178,201
+Koessen F.,Formation,0.8,0,255,255,255
+Kendlbach Formation,Formation,3,0.8,255,255,255
+Eiberg M.,Member,0.8,0,255,255,255
+Tief.,Member,1,0.8,255,255,255
+Schattwald Beds,Member,2,1,255,255,255
+Tiefengraben Member,Member,3,2,255,255,255
+Pre-event Beds,misc,1,0,255,255,255
+Event Beds,misc,2,1,255,255,255
+Post-event Beds,misc,3,2,255,255,255

@@ -1,0 +1,9 @@
+name,type ,top,bottom,R,G,B
+Jurassic,Period,50,30,52,178,201
+Triassic,Period,30,0,129,43,146
+Psilonotenton ,Formation,50,30,255,255,255
+Triletes Beds,Formation,30,13.33,255,255,255
+Contorta Beds,Formation,13.33,0,255,255,255
+Post-event B.,misc,50,30,255,255,255
+Event Beds,misc,30,13.33,255,255,255
+Pre-event beds,misc,13.33,0,255,255,255
