@@ -17,6 +17,6 @@ Wickham H, François R, Henry L, Müller K (2018) Dplyr: A grammar of data manip
 
 Xie Y (2014) knitr: A Comprehensive Tool for Reproducible Research in R. In: Stodden V, Leisch F, Peng RD (eds) Implementing reproducible computational research. Chapman; Hall/CRC
 
-Xie Y (2015) Dynamic Documents with {R} and knitr, 2nd edn. Chapman; Hall/CRC, Boca Raton, Florida
+Xie Y (2015) Dynamic Documents with R and knitr, 2nd edn. Chapman; Hall/CRC, Boca Raton, Florida
 
 Xie Y (2018) knitr: A General-Purpose Package for Dynamic Report Generation in R
